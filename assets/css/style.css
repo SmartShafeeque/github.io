@@ -503,7 +503,10 @@ main {
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
-
+.about-iamge{
+	img {
+  border-radius: 50%;
+}}
 .about-text p { margin-bottom: 15px; }
 
 
